@@ -66,7 +66,7 @@ body{
 <p>荣耀集结 · 巅峰对决</p >
 
 <a href=" ">
-<button class="btn">立即报名</button>
+<a href="signup.html">立即报名</a>
 </a >
 </div>
 
